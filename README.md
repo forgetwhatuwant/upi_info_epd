@@ -1,6 +1,4 @@
-以下是优化后的Markdown格式的步骤指南：
 
-```markdown
 # Raspberry Pi SPI 接口配置和环境安装指南
 
 ## 1. 配置 SPI 接口
@@ -70,6 +68,6 @@
 - 在克隆仓库时，替换 `<repository_url>` 为实际的 Git 仓库地址。
 - 如果遇到权限问题，请确保以 `sudo` 运行相关命令。
 
-```
 
-这个Markdown格式的指南更加清晰，便于阅读和操作。
+
+
